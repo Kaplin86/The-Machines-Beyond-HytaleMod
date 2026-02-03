@@ -1,0 +1,16 @@
+{
+  "InstanceId": "BigCity",
+  "Description": {
+    "DisplayName": "TheMachinesBeyond.portal.name",
+    "FlavorText": "TheMachinesBeyond.portal.description",
+    "ThemeColor": "#ff2dd3",
+    "SplashImage": "DefaultArtwork.png"
+  },
+  "PlayerSpawn": {
+    "Y": 62,
+    "ScanHeight": 20,
+    "MinRadius": 25,
+    "MaxRadius": 125,
+    "ChunkDartThrows": 35
+  }
+}

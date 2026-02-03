@@ -1,0 +1,148 @@
+{
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "CitySky",
+        "Weight": 100
+      }
+    ]
+  }
+}

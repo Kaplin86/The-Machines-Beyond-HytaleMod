@@ -1,0 +1,91 @@
+{
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.CrubionGun.name",
+    "Description": "TheMachinesBeyond.items.CrubionGun.desc"
+  },
+  "Categories": [
+    "Items.Weapons"
+  ],
+  "Icon": "Icons/ItemsGenerated/Weapon_CrubionGun.png",
+  "Model": "Items/Weapons/CrubionGun.blockymodel",
+  "Texture": "Items/Weapons/CrubionGun.png",
+  "PlayerAnimationsId": "Handgun",
+  "Interactions": {
+    "Primary": {
+      "Interactions": [
+        {
+          "Parent": "CrubionGun_Shoot",
+          "RunTime": 0.01
+        }
+      ]
+    },
+    "Secondary": "Gun_Attack"
+  },
+  "InteractionVars": {
+    "Gun_Swing_Left_Effect": {
+      "Interactions": [
+        {
+          "Parent": "Gun_Swing_Left_Effect",
+          "Effects": {
+            "Trails": [
+              {
+                "TrailId": "Small_Default",
+                "TargetNodeName": "Handle",
+                "TargetEntityPart": "PrimaryItem",
+                "PositionOffset": {
+                  "X": 0.4,
+                  "Y": -0.05,
+                  "Z": 0
+                },
+                "RotationOffset": {
+                  "Yaw": 0,
+                  "Pitch": 0,
+                  "Roll": -45
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Gun_Swing_Left_Damage": {
+      "Interactions": [
+        {
+          "Parent": "Gun_Swing_Left_Damage",
+          "DamageCalculator": {
+            "Type": "Dps",
+            "BaseDamage": {
+              "Physical": 5
+            },
+            "RandomPercentageModifier": 0.1
+          },
+          "DamageEffects": {
+            "WorldSoundEventId": "SFX_Unarmed_Impact"
+          }
+        }
+      ]
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.37,
+    "Rotation": [
+      327.375,
+      90,
+      0
+    ],
+    "Translation": [
+      -13.8,
+      -15.6
+    ]
+  },
+  "Quality": "Rare",
+  "Tags": {
+    "Type": [
+      "Weapon"
+    ]
+  },
+  "Weapon": {},
+  "Utility": {
+    "Compatible": true
+  }
+}

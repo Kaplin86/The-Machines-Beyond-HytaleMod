@@ -1,0 +1,23 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "LightningBall_Projectile_Sparks",
+      "PositionOffset": {
+        "X": 0.0,
+        "Z": 0.0
+      },
+      "FixedRotation": false,
+      "RotationOffset": {
+        "Yaw": -90
+      }
+    },
+    {
+      "SpawnerId": "Lightning_Sword_Trail"
+    },
+    {
+      "SpawnerId": "LightningBall_Projectile_Core"
+    }
+  ],
+  "CullDistance": 100.0,
+  "IsImportant": false
+}

@@ -1,0 +1,44 @@
+{
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "CubeShadingMode": "Reflective",
+    "Textures": [
+      {
+        "All": "BlockTextures/LED/PinkLED.png"
+      }
+    ],
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "Light": {
+      "Color": "#f8f"
+    },
+    "ParticleColor": "#ff60cd",
+    "Gathering": {
+      "Soft": {
+        "DropList": "Empty"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "BlockParticleSetId": "Glass"
+  },
+  "Icon": "Icons/ItemsGenerated/PinkLED.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.PinkLED.name",
+    "Description": "TheMachinesBeyond.items.LED.desc"
+  }
+}

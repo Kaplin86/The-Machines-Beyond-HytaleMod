@@ -1,0 +1,91 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "*Furniture_Temple_Light_Chest_Small_State_Definitions_CloseWindow",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "L6LzkYSjQOWrksT02Y12sg==",
+              "$type": "04"
+            }
+          },
+          "container": {
+            "Position": {
+              "X": 14,
+              "Y": 56,
+              "Z": 18
+            },
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {
+                "6": {
+                  "Id": "Battery",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "15": {
+                  "Id": "Ingredient_Bar_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "13": {
+                  "Id": "Battery",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "9": {
+                  "Id": "Battery",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "1": {
+                  "Id": "Ingredient_Bar_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "17": {
+                  "Id": "Battery",
+                  "Quantity": 2,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            }
+          }
+        }
+      },
+      "rotation": 2
+    }
+  ],
+  "fluids": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

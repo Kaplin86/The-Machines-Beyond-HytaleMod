@@ -1,0 +1,44 @@
+{
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "CubeShadingMode": "Reflective",
+    "Textures": [
+      {
+        "All": "BlockTextures/LED/YellowLED.png"
+      }
+    ],
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "Light": {
+      "Color": "#ff2"
+    },
+    "ParticleColor": "#f7ff60",
+    "Gathering": {
+      "Soft": {
+        "DropList": "Empty"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "BlockParticleSetId": "Glass"
+  },
+  "Icon": "Icons/ItemsGenerated/YellowLED.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.YellowLED.name",
+    "Description": "TheMachinesBeyond.items.LED.desc"
+  }
+}

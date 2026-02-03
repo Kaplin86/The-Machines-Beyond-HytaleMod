@@ -1,0 +1,41 @@
+{
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.battery.name",
+    "Description": "TheMachinesBeyond.items.battery.description"
+  },
+  "Quality": "Uncommon",
+  "Categories": [
+    "Items.Ingredients"
+  ],
+  "Model": "Items/Battery.blockymodel",
+  "Texture": "Items/Battery.png",
+  "PlayerAnimationsId": "Item",
+  "IconProperties": {
+    "Scale": 2,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      5,
+      -16
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Ingredient"
+    ]
+  },
+  "ItemEntity": {
+    "ParticleSystemId": null
+  },
+  "Scale": 0.8,
+  "Light": {
+    "Color": "#320",
+    "Radius": 1
+  },
+  "ItemSoundSetId": "ISS_Items_Gems",
+  "DropOnDeath": true,
+  "Icon": "Icons/ItemsGenerated/Battery.png"
+}

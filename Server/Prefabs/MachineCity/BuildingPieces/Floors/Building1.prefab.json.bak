@@ -1,0 +1,7289 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -7,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars_Corner",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Iron_Bars",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -4,
+      "name": "Deco_Iron_Bars",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -3,
+      "name": "Deco_Iron_Bars",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Trash_Pile_Large",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 0,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 0,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 6,
+      "name": "*Rock_Ledge_Brick_Stairs_State_Definitions_Inverted_Corner_Left",
+      "rotation": 11
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 992,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 2016,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "components": {
+        "Components": {
+          "RespawnBlock": {}
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "YellowLED"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 5,
+      "name": "*Furniture_Robot_Door_State_Definitions_CloseDoorIn"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 5,
+      "name": "*Furniture_Robot_Door_State_Definitions_CloseDoorIn",
+      "filler": 1024
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Stairs",
+      "rotation": 10
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Trash",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 993,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 2017,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "filler": 1,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "filler": 1025,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Survival_Trap_Spike_Iron"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 4,
+      "name": "YellowLED"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 5,
+      "name": "*Furniture_Robot_Door_State_Definitions_CloseDoorOut",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 5,
+      "name": "*Furniture_Robot_Door_State_Definitions_CloseDoorOut",
+      "filler": 1024,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Stairs",
+      "rotation": 10
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Trash",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 994,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Furniture_Village_Bed",
+      "filler": 2018,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "filler": 2,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Village_Bed",
+      "filler": 1026,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "BlueLED"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "YellowLED"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "BlueLED"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Wardrobe",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Wardrobe",
+      "filler": 1024,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 6,
+      "name": "*Rock_Ledge_Brick_Stairs_State_Definitions_Inverted_Corner_Right",
+      "rotation": 9
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Wardrobe",
+      "filler": 1,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Wardrobe",
+      "filler": 1025,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Trash_Pile_Large",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Bench_Cooking",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Bench_Cooking",
+      "filler": 2016,
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Bench_Cooking",
+      "components": {
+        "Components": {
+          "crafting": {
+            "TierLevel": 1,
+            "UpgradeItems": []
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Bench_Cooking",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "L6LzkYSjQOWrksT02Y12sg==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "RobotCity"
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -6,
+      "name": "Deco_Iron_Bars"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Trash",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Stool"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Survival_Trap_Spike_Iron"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Temple_Light_Table"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Table",
+      "filler": 32
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Light_Stool"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "BlueLED"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "BlueLED"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Temple_Light_Table",
+      "filler": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Table",
+      "filler": 33
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Temple_Light_Stool"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Light_Pot"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Survival_Trap_Spike_Iron"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 4,
+      "name": "Cloth_Block_Wool_White"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -5,
+      "name": "YellowLED"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -4,
+      "name": "YellowLED"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -3,
+      "name": "YellowLED"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Robot_Door",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "name": "Furniture_Robot_Door",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Robot_Door",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Robot_Door",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Marble_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Black"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Ledge_Brick_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Ledge_Brick"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Ledge_Brick_Smooth"
+    }
+  ]
+}

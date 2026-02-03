@@ -1,0 +1,48 @@
+{
+  "$Comment": "city no way",
+  "RequiredPlugins": {},
+  "SpawnProvider": {
+    "Id": "Global",
+    "SpawnPoint": {
+      "X": -138,
+      "Y": 83.0,
+      "Z": -140.0,
+      "Pitch": 0.0,
+      "Yaw": 90.0,
+      "Roll": 0.0
+    }
+  },
+  "ChunkStorage": {
+    "Type": "Hytale"
+  },
+  "GameMode": "Adventure",
+  "IsPvpEnabled": false,
+  "IsSpawningNPC": true,
+  "GameTime": "0001-01-04T00:00:00Z",
+  "UUID": {
+    "$binary": "AZKxiVAMQfWIS0qBsBfjzQ==",
+    "$type": "04"
+  },
+  "GameplayConfig": "Default",
+  "IsCompassUpdating": true,
+  "IsTicking": true,
+  "IsGameTimePaused": true,
+  "IsObjectiveMarkersEnabled": true,
+  "IsAllNPCFrozen": false,
+  "IsSavingPlayers": true,
+  "WorldGen": {
+    "Type": "HytaleGenerator",
+    "WorldStructure": "City_BiomeStructure",
+    "PlayerSpawn" : {
+      "X" : -138,
+      "Y" : 83,
+      "Z" : -140,
+      "Pitch" : 0,
+      "Yaw" : 0,
+      "Roll" : 0
+    }
+  },
+  "IsSpawnMarkersEnabled": false,
+  "DeleteOnRemove": false,
+  "Version": 2
+}

@@ -1,0 +1,37 @@
+{
+  "$Comment": "spidr",
+  "RequiredPlugins": {},
+  "ChunkStorage": {
+    "Type": "Hytale"
+  },
+  "GameMode": "Adventure",
+  "IsPvpEnabled": false,
+  "IsSpawningNPC": true,
+  "GameTime": "0001-01-04T00:00:00Z",
+  "UUID": {
+    "$binary": "AZKxiVAMQfWIS0qBsBfjzQ==",
+    "$type": "04"
+  },
+  "GameplayConfig": "Default",
+  "IsCompassUpdating": true,
+  "IsTicking": true,
+  "IsGameTimePaused": true,
+  "IsObjectiveMarkersEnabled": true,
+  "IsAllNPCFrozen": false,
+  "IsSavingPlayers": true,
+  "WorldGen": {
+    "Type": "HytaleGenerator",
+    "WorldStructure": "TestingWorldStructure",
+    "PlayerSpawn" : {
+      "X" : 0,
+      "Y" : 155,
+      "Z" : 0,
+      "Pitch" : 0,
+      "Yaw" : 0,
+      "Roll" : 0
+    }
+  },
+  "IsSpawnMarkersEnabled": false,
+  "DeleteOnRemove": false,
+  "Version": 2
+}

@@ -1,0 +1,18 @@
+vhen_merchant=Vhen Dingma Sheen's Store
+items.battery.name=Battery
+items.battery.description=<i>The magnum opus of the Crubion's advancesments. They harnessed the Essence of Lightning, founding a new wave of inovation and prosperity. The batteries were made using resources only found in the young Alterverse of Xerakh</i>
+items.BlueLED.name=Blue LED Block
+items.PinkLED.name=Pink LED Block
+items.YellowLED.name=Yellow LED Block
+items.LED.desc=<i>When the Crubion discovered how to create their own light, they were quick to discard their torches. In commemoration of such a feat, they built a large pillar in the center of their town, made purely of LEDs. This pillar is known as 'The Light Of The City'</i>
+items.Sidewalk.name = Sidewalk Pavement
+items.Sidewalk.desc = <i>When the Crucible explorerers first made their way to the Alterverse of Xerakh, they discovered a mixture for a incredibly sound material. They constructed big walls to hold back the sandstorms. </i>
+items.CrubionGun.name =Hand Zapper
+items.CrubionGun.desc = Consumes <item is="Battery"/>.\n\n <i> The ranged weaponry is the first element that truly seperated the Crubion from the Crucible. When the two lost communication, weaponry of the past became irrelevant. </i>
+items.AdBlocker.Name = AdBlocker Shield
+items.AdBlocker.desc = <i>When the robots started to fight back, shields became a must have for the Crubion. Unlike their fiery ancestors, greed triumphed over strength.</i>
+items.door.name=Robot City Door
+portal.name = Crubion City
+portal.description = The Alterverse of Xerakh was home for a ancient civilization, but only creatures of steel and adamantite remain there now.
+portalkey.name = Fragment: Xerakh - Crubion City
+portalkey.desc = <msg key="server.items.PortalKey.description"/> \n\n<i> There used to be individuals known for their affinity to Flame and Ice, however, some were tied to Lightning</i>

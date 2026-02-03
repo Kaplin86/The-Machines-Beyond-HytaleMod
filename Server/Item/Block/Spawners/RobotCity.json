@@ -1,0 +1,14 @@
+{
+  "Entries": [
+    {
+      "Name": "Furniture_Temple_Light_Chest_Small",
+      "State": {
+        "Custom": false,
+        "AllowViewing": true,
+        "Type": "container",
+        "Droplist": "RobotCityDropList"
+      },
+      "Weight": 100
+    }
+  ]
+}

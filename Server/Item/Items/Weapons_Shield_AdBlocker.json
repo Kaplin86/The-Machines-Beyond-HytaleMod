@@ -1,0 +1,28 @@
+{
+  "Parent": "Template_Weapon_Shield",
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.AdBlocker.Name",
+    "Description": "TheMachinesBeyond.items.AdBlocker.desc"
+  },
+  "Model": "Items/Weapons/AdBlocker.blockymodel",
+  "Texture": "Items/Weapons/AdBlocker.png",
+  "Icon": "Icons/ItemsGenerated/Weapons_Shield_AdBlocker.png",
+  "Quality": "Common",
+  "ItemLevel": 40,
+  "Light": {
+    "Radius": 1,
+    "Color": "#e7f"
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      321,
+      273,
+      22.5
+    ],
+    "Translation": [
+      -21,
+      -26
+    ]
+  }
+}

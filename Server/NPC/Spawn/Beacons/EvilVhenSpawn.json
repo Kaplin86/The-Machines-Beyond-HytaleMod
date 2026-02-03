@@ -1,0 +1,19 @@
+{
+  "NPCs": [
+    {
+      "Id": "EvilVhen",
+      "Weight": 100,
+      "Flock": {
+        "Type": "Default",
+        "MaxGrowSize": 6
+      }
+    }
+  ],
+  "Environments": [
+    "CityEnviornment"
+  ],
+  "TargetDistanceFromPlayer": 10,
+  "MinDistanceFromPlayer": 5,
+  "MaxSpawnedNPCs": 6,
+  "SpawnRadius": 2
+}

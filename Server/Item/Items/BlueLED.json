@@ -1,0 +1,51 @@
+{
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "CubeShadingMode": "Reflective",
+    "Textures": [
+      {
+        "All": "BlockTextures/LED/BlueLED.png"
+      }
+    ],
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "Light": {
+      "Color": "#dff"
+    },
+    "ParticleColor": "#60f2ff",
+    "Group": "Stone",
+    "Flags": {},
+    "BlockParticleSetId": "Glass",
+    "Gathering": {
+      "Soft": {
+        "DropList": "Empty"
+      },
+      "UseDefaultDropWhenPlaced": true
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/BlueLED.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "TheMachinesBeyond.items.BlueLED.name",
+    "Description": "TheMachinesBeyond.items.LED.desc"
+  }
+}

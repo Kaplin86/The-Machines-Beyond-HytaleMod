@@ -1,0 +1,27 @@
+{
+  "Type": "NoiseRange",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map"
+  },
+  "ContentFields": [
+    {
+      "Type": "BaseHeight",
+      "Name": "Base",
+      "Y": 50
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Water",
+      "Y": 50
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Bedrock",
+      "Y": 0
+    }
+  ],
+  "DefaultBiome": "TestBiome"
+}

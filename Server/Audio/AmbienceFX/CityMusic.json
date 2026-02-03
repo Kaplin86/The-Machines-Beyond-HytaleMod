@@ -1,0 +1,18 @@
+{
+  "Conditions": {
+    "DayTime": {
+      "Min": 5,
+      "Max": 19
+    },
+    "EnvironmentIds": [
+      "CityEnviornment"
+    ]
+  },
+  "AudioCategory": "AudioCat_Music",
+  "Priority": 20,
+  "Music": {
+    "Tracks": [
+      "Music/Kaplin_CityAmbience.ogg"
+    ]
+  }
+}

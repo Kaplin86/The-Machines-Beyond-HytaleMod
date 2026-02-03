@@ -1,0 +1,75 @@
+{
+  "Model": "NPC/Intelligent/VhenDingmaChine/Models/model.blockymodel",
+  "Texture": "NPC/Intelligent/VhenDingmaChine/Models/Model_Textures/Evil_Vehn2.png",
+  "HitBox": {
+    "Min": {
+      "X": -0.325,
+      "Y": 0,
+      "Z": -0.325
+    },
+    "Max": {
+      "X": 0.325,
+      "Y": 2.7,
+      "Z": 0.325
+    }
+  },
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "NPC/Intelligent/VhenDingmaChine/Animations/idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Walk": {
+      "Animations": [
+        {
+          "Animation": "NPC/Intelligent/VhenDingmaChine/Animations/walk.blockyanim",
+          "Speed": 3,
+          "Looping": true
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Intelligent/VhenDingmaChine/Animations/walk.blockyanim",
+          "Speed": 3,
+          "Looping": true
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Intelligent/VhenDingmaChine/Animations/death.blockyanim",
+          "Looping": false
+        }
+      ]
+    }
+  },
+  "Icon": "Icons/ModelsGenerated/Vhen.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      12,
+      -35
+    ]
+  },
+  "Camera": {
+    "PositionOffset": {
+      "X": 0,
+      "Z": 0,
+      "Y": 5
+    }
+  },
+  "GradientSet": "Flashy_Synthetic",
+  "GradientId": "Cream",
+  "EyeHeight": 0.5
+}

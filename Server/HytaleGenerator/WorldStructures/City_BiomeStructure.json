@@ -1,0 +1,49 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "CityBiome",
+      "Min": 0.012,
+      "Max": 0.9
+    },
+    {
+      "Biome": "Desert1_Stacks",
+      "Min": -1,
+      "Max": 0.01
+    },
+    {
+      "Biome": "CitySafeZone",
+      "Min": 0.9,
+      "Max": 99
+    },
+    {
+      "Biome": "EdgeBiome",
+      "Max": 0.012,
+      "Min": 0.01
+    }
+  ],
+  "DefaultTransitionDistance": 2,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Name": "City-Biome-Map"
+  },
+  "ContentFields": [
+    {
+      "Type": "BaseHeight",
+      "Name": "Base",
+      "Y": 50
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Water",
+      "Y": 50
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Bedrock",
+      "Y": 0
+    }
+  ],
+  "DefaultBiome": "Default_Flat"
+}

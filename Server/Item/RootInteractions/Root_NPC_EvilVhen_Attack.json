@@ -1,0 +1,18 @@
+{
+  "Interactions": [
+    {
+      "Type": "Replace",
+      "Var": "Melee_Start",
+      "DefaultValue": {
+        "Interactions": [
+          "EvilVhen_Bash"
+        ]
+      }
+    }
+  ],
+  "Tags": {
+    "Attack": [
+      "Melee"
+    ]
+  }
+}

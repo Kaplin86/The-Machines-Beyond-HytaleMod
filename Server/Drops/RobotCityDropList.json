@@ -1,0 +1,56 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Battery",
+              "QuantityMin": 1,
+              "QuantityMax": 5
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "BlueLED",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "QuantityMin": 7,
+              "QuantityMax": 7,
+              "ItemId": "Battery"
+            },
+            "Weight": 50
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Adamantite",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Sidewalk",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          }
+        ],
+        "RollsMin": 2,
+        "RollsMax": 4
+      }
+    ]
+  }
+}

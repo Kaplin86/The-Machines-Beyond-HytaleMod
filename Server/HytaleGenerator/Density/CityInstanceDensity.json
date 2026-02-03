@@ -1,0 +1,278 @@
+{
+	"$NodeId":	"Exported.Density-ed27c3c9-2416-4644-ac84-4e381c084b99",
+	"Type":	"Exported",
+	"ExportAs":	"City-Biome-Map",
+	"SingleInstance":	true,
+	"Skip":	false,
+	"Inputs":	[{
+			"$NodeId":	"YOverride.Density-b51e23ab-0333-450d-9677-22994170db28",
+			"Type":	"YOverride",
+			"Skip":	false,
+			"Value":	0,
+			"Inputs":	[{
+					"$NodeId":	"Cache.Density-ac158397-64c5-4c98-b278-7428b9ee50df",
+					"Type":	"Cache",
+					"Skip":	false,
+					"Capacity":	1,
+					"Inputs":	[{
+							"$NodeId":	"Scale.Density-4e5e3265-168b-4889-aa55-467bcbe3a4d9",
+							"Type":	"Scale",
+							"Skip":	false,
+							"ScaleX":	1,
+							"ScaleY":	1,
+							"ScaleZ":	1,
+							"Inputs":	[{
+									"$NodeId":	"SumDensityNode-fb51cd5b-343b-426f-ad11-2deeef48b477",
+									"Type":	"Sum",
+									"Skip":	false,
+									"Inputs":	[{
+											"$NodeId":	"MinDensityNode-91f512b3-883d-49bc-9d40-7e1d4cfc3bc6",
+											"Type":	"Min",
+											"Skip":	false,
+											"Inputs":	[{
+													"$NodeId":	"ConstantDensityNode-04ff1a7d-ce56-4686-b19b-e85c8dd75197",
+													"Type":	"Constant",
+													"Skip":	false,
+													"Value":	0.8
+												}, {
+													"$NodeId":	"Distance.Density-c09b01a9-ab3d-4565-b476-3ce14bd17e9e",
+													"Type":	"Distance",
+													"Skip":	false,
+													"Curve":	{
+														"$NodeId":	"DistanceExponentialCurve-6fd49fb2-e843-475d-ac40-f1c16eb1aa5e",
+														"Type":	"DistanceExponential",
+														"Exponent":	5,
+														"Range":	600
+													}
+												}]
+										}, {
+											"$NodeId":	"MultiplierDensityNode-a0ea04d6-022d-413b-8ef6-c84d7e72f33f",
+											"Type":	"Multiplier",
+											"Skip":	false,
+											"Inputs":	[{
+													"$NodeId":	"Slider.Density-d15b48a4-3210-4553-ad23-f03b0d468f86",
+													"Type":	"Slider",
+													"Skip":	false,
+													"SlideX":	-142,
+													"SlideY":	0,
+													"SlideZ":	-142,
+													"Inputs":	[{
+															"$NodeId":	"Cylinder.Density-a25e8d61-57a7-4f4d-8490-8007d02c64fc",
+															"Type":	"Cylinder",
+															"Skip":	false,
+															"Spin":	0,
+															"RadialCurve":	{
+																"$NodeId":	"DistanceExponentialCurve-708dd1ba-b57f-4ba4-83a6-fd6d4966c793",
+																"Type":	"DistanceExponential",
+																"Exponent":	1,
+																"Range":	30
+															},
+															"AxialCurve":	{
+																"$NodeId":	"Constant.Curve-5c6184e5-2a00-49bd-955d-b94ab85b0d81",
+																"Type":	"Constant",
+																"Value":	0.2
+															},
+															"NewYAxis":	{
+																"$NodeId":	"Point3D-3a49b7e2-2459-41a5-9c0f-abf8bc80095f",
+																"X":	0,
+																"Y":	0,
+																"Z":	0
+															}
+														}]
+												}, {
+													"$NodeId":	"ConstantDensityNode-a87e678d-6614-4a65-bf6b-c57fd7a529fc",
+													"Type":	"Constant",
+													"Skip":	false,
+													"Value":	50
+												}]
+										}]
+								}]
+						}]
+				}]
+		}],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Exported.Density-ed27c3c9-2416-4644-ac84-4e381c084b99":	{
+				"$Position":	{
+					"$x":	-4191,
+					"$y":	-5985
+				},
+				"$Title":	"[ROOT] Exported Density"
+			},
+			"YOverride.Density-b51e23ab-0333-450d-9677-22994170db28":	{
+				"$Position":	{
+					"$x":	-3507,
+					"$y":	-5979
+				}
+			},
+			"Cache.Density-ac158397-64c5-4c98-b278-7428b9ee50df":	{
+				"$Position":	{
+					"$x":	-2879,
+					"$y":	-5975
+				}
+			},
+			"Scale.Density-4e5e3265-168b-4889-aa55-467bcbe3a4d9":	{
+				"$Position":	{
+					"$x":	-2274,
+					"$y":	-5972
+				}
+			},
+			"SumDensityNode-fb51cd5b-343b-426f-ad11-2deeef48b477":	{
+				"$Position":	{
+					"$x":	-802,
+					"$y":	-5956
+				}
+			},
+			"MinDensityNode-91f512b3-883d-49bc-9d40-7e1d4cfc3bc6":	{
+				"$Position":	{
+					"$x":	-424,
+					"$y":	-6250
+				}
+			},
+			"ConstantDensityNode-04ff1a7d-ce56-4686-b19b-e85c8dd75197":	{
+				"$Position":	{
+					"$x":	302,
+					"$y":	-6331
+				}
+			},
+			"Distance.Density-c09b01a9-ab3d-4565-b476-3ce14bd17e9e":	{
+				"$Position":	{
+					"$x":	280,
+					"$y":	-6115
+				}
+			},
+			"DistanceExponentialCurve-6fd49fb2-e843-475d-ac40-f1c16eb1aa5e":	{
+				"$Position":	{
+					"$x":	971,
+					"$y":	-6122
+				}
+			},
+			"MultiplierDensityNode-a0ea04d6-022d-413b-8ef6-c84d7e72f33f":	{
+				"$Position":	{
+					"$x":	-731,
+					"$y":	-5605
+				}
+			},
+			"Slider.Density-d15b48a4-3210-4553-ad23-f03b0d468f86":	{
+				"$Position":	{
+					"$x":	-11,
+					"$y":	-5757
+				}
+			},
+			"Cylinder.Density-a25e8d61-57a7-4f4d-8490-8007d02c64fc":	{
+				"$Position":	{
+					"$x":	727,
+					"$y":	-5629
+				}
+			},
+			"DistanceExponentialCurve-708dd1ba-b57f-4ba4-83a6-fd6d4966c793":	{
+				"$Position":	{
+					"$x":	1614,
+					"$y":	-5463
+				}
+			},
+			"Constant.Curve-5c6184e5-2a00-49bd-955d-b94ab85b0d81":	{
+				"$Position":	{
+					"$x":	1493,
+					"$y":	-5665
+				}
+			},
+			"Point3D-3a49b7e2-2459-41a5-9c0f-abf8bc80095f":	{
+				"$Position":	{
+					"$x":	1093,
+					"$y":	-5295
+				}
+			},
+			"ConstantDensityNode-a87e678d-6614-4a65-bf6b-c57fd7a529fc":	{
+				"$Position":	{
+					"$x":	-98,
+					"$y":	-5350
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[{
+				"$Position":	{
+					"$x":	750337,
+					"$y":	743170.5
+				},
+				"$width":	1520.6875,
+				"$height":	386.875,
+				"$name":	"Comment",
+				"$text":	"Use the river noise as the controller to save performance, mixing in a solid -0.3",
+				"$fontSize":	53
+			}, {
+				"$Position":	{
+					"$x":	749741.5,
+					"$y":	743999.875
+				},
+				"$width":	1035.6875,
+				"$height":	265.5625,
+				"$name":	"Comment",
+				"$text":	"Mix a solid value using river Noise",
+				"$fontSize":	53
+			}, {
+				"$Position":	{
+					"$x":	749066.25,
+					"$y":	745239.625
+				},
+				"$width":	1659.25,
+				"$height":	497.5,
+				"$name":	"Comment",
+				"$text":	"Mix in  the entire ocean field to ensure shores are being mapped",
+				"$fontSize":	29
+			}, {
+				"$Position":	{
+					"$x":	748431.625,
+					"$y":	745456.75
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	""
+			}, {
+				"$Position":	{
+					"$x":	749062.5,
+					"$y":	746350.25
+				},
+				"$width":	1178.0625,
+				"$height":	265.5625,
+				"$name":	"Comment",
+				"$text":	"TODO: Evaluate mixing in solid values instead of duplicating the ocean as a mask",
+				"$fontSize":	53
+			}, {
+				"$Position":	{
+					"$x":	746517.375,
+					"$y":	743579.5
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	""
+			}, {
+				"$Position":	{
+					"$x":	-3494,
+					"$y":	-5709.0625
+				},
+				"$width":	1035.6875,
+				"$height":	257.9375,
+				"$name":	"Comment",
+				"$text":	"Ensure entire field is 2D",
+				"$fontSize":	53
+			}, {
+				"$Position":	{
+					"$x":	-2275.4375,
+					"$y":	-5706.1875
+				},
+				"$width":	1035.6875,
+				"$height":	265.5625,
+				"$name":	"Comment",
+				"$text":	"Debug Scaler",
+				"$fontSize":	53
+			}],
+		"$WorkspaceID":	"HytaleGenerator - Density"
+	}
+}
